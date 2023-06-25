@@ -12,7 +12,6 @@
 ### Just tack a shortcut of the data from the data on the drive to your drive
 
 # Results 
-<img src='[https://justchenhao.github.io/LEVIR/assets/images/samples.jpg](https://drive.google.com/file/d/100DAQhjiecAWwvjxTA-3VdgxmUEjLqAb/view?usp=sharing
-)https://drive.google.com/file/d/100DAQhjiecAWwvjxTA-3VdgxmUEjLqAb/view?usp=sharing
-' alt='Results'>
+<img src='https://drive.google.com/file/d/100DAQhjiecAWwvjxTA-3VdgxmUEjLqAb/view?usp=sharing' alt='Results'>
+
 
