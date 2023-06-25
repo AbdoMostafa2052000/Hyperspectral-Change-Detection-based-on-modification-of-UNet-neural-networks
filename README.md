@@ -12,6 +12,4 @@
 ### Just tack a shortcut of the data from the data on the drive to your drive
 
 # Results 
-<img src='https://drive.google.com/file/d/100DAQhjiecAWwvjxTA-3VdgxmUEjLqAb/view?usp=sharing' alt='Results'>
-
-
+![Screenshot 2023-06-25 132335](https://github.com/AbdoMostafa2052000/Hyperspectral-Change-Detection-based-on-modification-of-UNet-neural-networks/assets/66859807/0277295a-9a00-4615-8995-aebeff673b1d)
